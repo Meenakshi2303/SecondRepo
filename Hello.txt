@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A8A3-261F
+
+ Directory of D:\Meena\Git\SecondRepo
+
+04-07-2019  18:09    <DIR>          .
+04-07-2019  18:09    <DIR>          ..
+04-07-2019  18:09                 0 Hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  109,898,407,936 bytes free
